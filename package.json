@@ -1,0 +1,12 @@
+{
+    "name": "nativescript-animated-menu",
+    "version": "0.1.2",
+    "description": "A NativeScript module to add animated side menu to your apps",
+    "main": "anumatedmenu.js",
+    "nativescript": {
+      "platforms": {
+		    "ios": "0.0.1"
+      }
+    },
+    "readmeFilename": "README.md"
+}
